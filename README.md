@@ -1,1 +1,3 @@
 # Odinproject-landingpage
+From time Memorial, Medxentials has not had a website, in this project i vow to bring to life the landing page.
+Here we go...
